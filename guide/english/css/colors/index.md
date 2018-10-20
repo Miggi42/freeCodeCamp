@@ -1,3 +1,4 @@
+
 ---
 title:  CSS3 Colors
 ---
@@ -19,6 +20,7 @@ RGBA color values are an extension of RGB color values with an alpha channel - w
 
 An RGB color value is specified with: rgb(red, green, blue)
 An RGBA color value is similar, with the alpha value in last position: rgba(red, green, blue, alpha)
+An RGB color is read as the red value first, then the green value, then the blue value.
 
 ### HSL(A)
 
