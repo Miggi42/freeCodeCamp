@@ -80,7 +80,7 @@ p {
 
 ### Font responsiveness
 The text size can be set with a vw(viewport width) unit.
-That way the text size will follow the size of the browser window.
+That way the text size will follow the size of the browser window. This is for when the browser is used on a mobile device compared to a computer. The font will adjust to the browser specifications.
 
 ```html
 <h1 style="font-size:10vw">Hello World</h1>
